@@ -5,11 +5,11 @@ version:v2.0
 Verydows v2.0 was discovered to contain a Cross-Site Request Forgery (CSRF) via the component /protected/controller/backend/role_controller.php
 
 
-
+![](../Added CSRF in Role Controller.assets/image-20231220213209690.png)
 
 create poc
 
-
+![](../Added CSRF in Role Controller.assets/Snipaste_2023-12-20_21-33-54.png)
 
 ```
 <html>
@@ -39,5 +39,6 @@ create poc
 
 successed
 
+![](../Added CSRF in Role Controller.assets/image-20231220213602214.png)
 
-
+![](../Added CSRF in Role Controller.assets/image-20231220213621857.png)
